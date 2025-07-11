@@ -237,3 +237,40 @@ main{
     opacity: 50%;
     margin-top: 2px;
 }
+/* newlatter */
+.newsletter{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 71px;
+}
+
+.newsletter input[type="email"], input[type="text"], textarea{
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 400px;
+}
+.connect{
+    margin-top: 71px;
+}
+
+.btn-submit{
+    background-color: #4E47FF;
+    font-weight: normal;
+    color: white;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 10px;
+    height: 60px;
+    width: 440px;
+}
+.newsletter-title {
+    font-size: 97px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.in-text{
+    font-size: 20px;
+    padding-left: 30px;
+}
